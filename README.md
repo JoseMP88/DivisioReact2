@@ -1,2 +1,2 @@
-# DivisioReact2
+# DivisioReact
 Created with CodeSandbox
